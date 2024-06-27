@@ -51,7 +51,7 @@
           <dmn:text>-</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_49D9B487-B0C9-4BDD-BBC8-6BA358F48370">
-          <dmn:text>"MMSAllADT"</dmn:text>
+          <dmn:text>"mmsalladt"</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text>All ADTs from MMS application</dmn:text>
@@ -68,7 +68,7 @@
           <dmn:text>"A03"</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_DC7AD028-A39D-4F66-8B29-262BD7A41730">
-          <dmn:text>"MMSDischarges"</dmn:text>
+          <dmn:text>"mmsdischarges"</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text>Only ADTs A01s from MMS application</dmn:text>
